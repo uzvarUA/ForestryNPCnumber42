@@ -1,4 +1,5 @@
-# ForestryNPCnumber42
+![](Forestry_NPC_number_42.jpg)
+***
 Це модифікація в якій я користуюсь для зйомок
 > [!WARNING]
 > Версія Minecraft Bedrock Edition (Patched)<br>
